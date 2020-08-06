@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: welcome
 ---
-## welcome
 
 This is the website of the [Brighton Mutual Aid](https://brightonmutualaid.co.uk/) donations service.
 
