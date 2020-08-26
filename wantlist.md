@@ -5,6 +5,9 @@ permalink: /wantlist/
 ---
 These are the things we need at the moment:
 
-- A sofa
-- A thimble
-- Seven pens
+- Phones and tablets (including broken ones)
+- Curtains
+- Microwave 
+- Portable hob
+- Small fridge
+
